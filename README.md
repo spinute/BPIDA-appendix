@@ -1,2 +1,3 @@
-# anon48
-supplemental material for socs2017 submission 48
+# Supplemental Material for: Block-Parallel IDA* for GPUs
+
+supplemental material for SoSC 2017 submission (fork)
